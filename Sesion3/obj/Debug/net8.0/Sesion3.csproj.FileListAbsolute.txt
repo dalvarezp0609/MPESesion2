@@ -1,0 +1,14 @@
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.AssemblyInfoInputs.cache
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.AssemblyInfo.cs
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.csproj.CoreCompileInputs.cache
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\bin\Debug\net8.0\Sesion3.exe
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\bin\Debug\net8.0\Sesion3.deps.json
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\bin\Debug\net8.0\Sesion3.runtimeconfig.json
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\bin\Debug\net8.0\Sesion3.dll
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\bin\Debug\net8.0\Sesion3.pdb
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.dll
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\refint\Sesion3.dll
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.pdb
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\Sesion3.genruntimeconfig.cache
+C:\Users\labc202\Desktop\Sesion2MPE\Sesion3\obj\Debug\net8.0\ref\Sesion3.dll
